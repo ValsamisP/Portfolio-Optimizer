@@ -1,6 +1,12 @@
 # Portfolio Optimizer
 A comprehensive Python application for portfolio optimization,risk analysis and rebalancing using portfolio theory. Built with Streamlit for a interactive user interface.
 
+## Primary Goals
+- Provide a framework for testing and comparing different optimization strategies.
+- Understand and demonstrate modern portfolio theory through interactive visualizations.
+- Implement and compare different portfolio optimization techniques.
+
+
 ## Features
 ### Portfolio Optimization
 - **Maximum Sharpe Ratio:** Find the portfolio with the best risk-adjusted returns
@@ -24,9 +30,13 @@ Running the application via "streamlit run app.py"
 
 ### Basic Workflow
 1.Select Assets:Enter stock tickers in the side bar
+
 2.Configure Parameters:Set lookback period,optimization method and risk parameters
+
 3.Run analysis:Click "Run Portfolio Analysis" to execute optimization
+
 4.Review Results:Take a look on weights, risk metrics, and Monte Carlo simulations
+
 5.Rebalancing:Use current holdings to generate rebalancing orders
 
 <img width="1913" height="1075" alt="image" src="https://github.com/user-attachments/assets/1f246b8f-bffe-4eda-b279-2a3334b5f931" />
