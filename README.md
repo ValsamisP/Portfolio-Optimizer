@@ -85,5 +85,8 @@ Multiple calculation methods:
 ## Author
 Developed by **Panagiotis Valsamis**, M.Sc. in Data Science candidate and aspiring Data Scientist.
 
+## Contributor
+**Panagiotis Akidis**, Master in Finance & Economics providing valuable theoretical insights in finance.
+
 ## Disclaimer
 This tool is for educational and research purposes only. It is not financial advice and should not be used as the sole basis for investment decisions.
