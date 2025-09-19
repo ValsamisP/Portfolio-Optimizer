@@ -90,3 +90,6 @@ Developed by **Panagiotis Valsamis**, M.Sc. in Data Science candidate and aspiri
 
 ## Disclaimer
 This tool is for educational and research purposes only. It is not financial advice and should not be used as the sole basis for investment decisions.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
